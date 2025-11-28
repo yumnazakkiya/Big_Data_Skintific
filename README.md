@@ -12,10 +12,6 @@ Proses pemodelan sentimen dilakukan melalui serangkaian tahapan teknis utama:
 # 📈 Hasil (Kuantitas)
 Setelah pelatihan dan evaluasi, model sentimen memberikan hasil sebagai berikut:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 |            Metrik            |                             Nilai                              |
 | -------------                |                                                  ------------- |
