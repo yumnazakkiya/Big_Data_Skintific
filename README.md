@@ -18,6 +18,7 @@ Setelah pelatihan dan evaluasi, model sentimen memberikan hasil sebagai berikut:
 | Content Cell  | Content Cell  |
 
 |            Metrik            |                             Nilai                              |
+| -------------                |                                                  ------------- |
 |Jumlah Total Ulasan Dikerjakan|                             5147                               |
 |  Akurasi Model Naive Bayes   |                            79.86%                              |
 |   Dominasi Sentimen Positif  |                    75.6% dari total ulasan                     |
