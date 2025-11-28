@@ -12,10 +12,15 @@ Proses pemodelan sentimen dilakukan melalui serangkaian tahapan teknis utama:
 # 📈 Hasil (Kuantitas)
 Setelah pelatihan dan evaluasi, model sentimen memberikan hasil sebagai berikut:
 
-|Metrik|Nilai|
-|Jumlah Total Ulasan Dikerjakan|5147|
-|Akurasi Model Naive Bayes|79.86%|
-|Dominasi Sentimen Positif|75.6% dari total ulasan|
-|Kata Kunci Positif Dominan|"cocok", "kulit", "bagus", "cepat"|
-|F1-Score (Kelas Positif)|0.93 (menunjukkan performa yang kuat dalam identifikasi Positif)|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+|            Metrik            |                             Nilai                              |
+|Jumlah Total Ulasan Dikerjakan|                             5147                               |
+|  Akurasi Model Naive Bayes   |                            79.86%                              |
+|   Dominasi Sentimen Positif  |                    75.6% dari total ulasan                     |
+|  Kata Kunci Positif Dominan  |               "cocok", "kulit", "bagus", "cepat"               |
+|   F1-Score (Kelas Positif)   |0.93 (menunjukkan performa yang kuat dalam identifikasi Positif)|
 
